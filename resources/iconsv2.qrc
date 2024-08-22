@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="a">
+    <file>icons/close.svg</file>
+    <file>icons/maximize.svg</file>
+    <file>icons/minimize.svg</file>
+    <file>icons/minus.svg</file>
+    <file>icons8-refrigerante-30.png</file>
+    <file>icons8-ventilador-50.png</file>
+    <file>icons8-ammeter-50.png</file>
+    <file>icons8-speed.png</file>
+    <file>current-logo.png</file>
+  </qresource>
+</RCC>
